@@ -7,3 +7,5 @@
 ### 只有两个命令
 1. npm i
 2. node index
+
+区块浏览器：https://explorer.injective.network/
